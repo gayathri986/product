@@ -8,4 +8,4 @@ CREATE TABLE `product` (
   `product_quantity` varchar(45) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `product_id_UNIQUE` (`product_id`)
-)ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+)
